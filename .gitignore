@@ -1,0 +1,23 @@
+# Byte-compiled / optimized
+__pycache__/
+*.py[cod]
+*.so
+
+# Virtual environment
+venv/
+env/
+*.env
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Data files
+*.npy
+*.npz
+simulation_results.npz
+
+# VSCode settings
+.vscode/
+
+#figure
+.png"simulation_results.npz" 
