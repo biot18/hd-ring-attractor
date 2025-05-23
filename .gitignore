@@ -20,4 +20,4 @@ simulation_results.npz
 .vscode/
 
 #figure
-.png"simulation_results.npz" 
+*.png
